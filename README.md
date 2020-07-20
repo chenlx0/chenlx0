@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Name: Chen Lixiang
+- 😆 Blog: [](https://imroot.cn)
+- 📫 Email: lixiang3608@outlook.com
