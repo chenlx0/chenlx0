@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Name: Chen Lixiang
 - 😆 Blog: [](https://imroot.cn)
 - 📫 Email: lixiang3608@outlook.com
+
+[![Github Stats By chenlx0](https://github-readme-stats.vercel.app/api?username=chenlx0&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
